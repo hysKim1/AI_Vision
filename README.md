@@ -2,8 +2,6 @@
 
 <img src='img/basic.png' />
 
-<img src='img/course.png' />
-
 <img src='img/table.png' />
 
 ---
