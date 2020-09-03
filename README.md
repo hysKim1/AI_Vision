@@ -19,8 +19,8 @@
 
 ## 필기자료(링크)
  
-### [1일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming1]()
-### [2일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming2]()
+### [1일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming1](https://github.com/hysKim1/AI_Vision/blob/master/200901_12기_고급시각반.ipynb)
+### [2일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming2](https://github.com/hysKim1/AI_Vision/blob/master/200902_12기_고급시각반.ipynb)
 ### [3일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming3]()
 ### [4일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming4]()
 ### [5일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming5]()
