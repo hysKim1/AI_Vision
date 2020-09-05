@@ -20,9 +20,15 @@
 ## 필기자료(링크)
  
 ### [1일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming1](https://github.com/hysKim1/AI_Vision/blob/master/200901_12기_고급시각반.ipynb)
+    - Functional paradigm: Function , iterable :반복문, comprehension , iterator, generator,Higher order function:map, filter,reduce 
 ### [2일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming2](https://github.com/hysKim1/AI_Vision/blob/master/200902_12기_고급시각반.ipynb)
-### [3일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming3]()
-### [4일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming4]()
+    - itertools : accumulate, chain, combinations, combinations_with_replacement, count, cycle, islice, groupby, filterfalse, takewhile,starmap
+    - functools : singledispatch, patrial
+    - operator: add,sub,mul
+### [3일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming3](https://github.com/hysKim1/AI_Vision/blob/master/200903_12기_고급시각반.ipynb)
+    - encapsulation : class, class attribute, instance, method, instance attribute, class method, static method
+### [4일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming4](https://github.com/hysKim1/AI_Vision/blob/master/200904_12기_고급시각반.ipynb)
+    - overloading, 연산자 오버로딩, 상속 : __mro__, super, composition, 다형성
 ### [5일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming5]()
 ### [6일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리1]()
 ### [7일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리2]()
