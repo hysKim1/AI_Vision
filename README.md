@@ -29,10 +29,14 @@
     - encapsulation : class, class attribute, instance, method, instance attribute, class method, static method
 ### [4일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming4](https://github.com/hysKim1/AI_Vision/blob/master/200904_12기_고급시각반.ipynb)
     - overloading, 연산자 오버로딩, 상속 : __mro__, super, composition, 다형성
-### [5일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming5]()
-### [6일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리1]()
-### [7일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리2]()
-### [8일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리3]()
+### [5일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming5](https://github.com/hysKim1/AI_Vision/blob/master/200907_12기_고급시각반.ipynb)
+    -
+### [6일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리1](https://github.com/hysKim1/AI_Vision/blob/master/200908_12기_고급시각반.ipynb)
+     - Numpy,  Numpy 데이터 구조, 데이터 저장 방식, Image : 형태: bitmap, vector  ,차원 , 구성:NHWC, channel: 색상(RGB), 흑백(intensity)
+### [7일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리2](https://github.com/hysKim1/AI_Vision/blob/master/200909_12기_고급시각반.ipynb)
+    - 영상처리 library, Numpy 기반 라이브러리 통해서 전처리, 데이터셋 구축 : 1. Numpy 기반 이미지 불러오기 : matplotlib, imageio, skimage, 2.데이터 크기 맞추기: slicing,resize, crop 3. 데이터 합치기: stack
+### [8일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리3](https://github.com/hysKim1/AI_Vision/blob/master/200910_12기_고급시각반.ipynb)
+    - 
 ### [9일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리4]()
 ### [10일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리5]()
 ### [11일차 필기자료 : OPENCV를 활용한 영상 처리1]()
