@@ -36,11 +36,30 @@
 ### [7일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리2](https://github.com/hysKim1/AI_Vision/blob/master/200909_12기_고급시각반.ipynb)
     - 영상처리 library, Numpy 기반 라이브러리 통해서 전처리, 데이터셋 구축 : 1. Numpy 기반 이미지 불러오기 : matplotlib, imageio, skimage, 2.데이터 크기 맞추기: slicing,resize, crop 3. 데이터 합치기: stack
 ### [8일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리3](https://github.com/hysKim1/AI_Vision/blob/master/200910_12기_고급시각반.ipynb)
+    - Pickle Scikit 모델 저장
+    - 자르기 : crop, slicing, resize
+    - rescale 
+    - interpolation 보간
+    - 이미지 뒤집기 : comma,flip(axis= ) flipud, fliplr
+### [9일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리4](https://github.com/hysKim1/AI_Vision/blob/master/200911_12기_고급시각반.ipynb)
+    - Channel, ImageDraw: 도형 그리기 (mutable technique)
+### [10일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리5](https://github.com/hysKim1/AI_Vision/blob/master/200914_12기_고급시각반.ipynb)
+    -  ImageDraw :text로 한글 입력
+    - 좌표축 :meshgird, ix_, mgird,ogrid
+    - mask 이용하여 그리기 :선,원
+    - 회전행렬 히용하여 원 그리기
+### [11일차 필기자료 : OPENCV를 활용한 영상 처리1](https://github.com/hysKim1/AI_Vision/blob/master/200915_12기_고급시각반.ipynb)
+    -  Einsum, OpenCV
+### [12일차 필기자료 : OPENCV를 활용한 영상 처리2](https://github.com/hysKim1/AI_Vision/blob/master/200916_12기_고급시각반.ipynb)
+    -  OpenCV 이용한 머신러닝 :create,  hyper Parameter 설정, train, predict
+    -  ML: Superviesd: Logistic Regression;   Unsupervised: KNearest, PCA, Kemans
+### [13일차 필기자료 : OPENCV를 활용한 영상 처리3](https://github.com/hysKim1/AI_Vision/blob/master/200917_12기_고급시각반.ipynb)
+    - 차원 축소  : Feature Seleciton : filter , wrapper, embeded; Dimensionality Reduciton: PCA
+    - pooling : local max pooling, local mean pooling, stride
+       - view_as_blocks, view_as_windows
+### [14일차 필기자료 : OPENCV를 활용한 영상 처리4](https://github.com/hysKim1/AI_Vision/blob/master/200918_12기_고급시각반.ipynb)
+    - Image processing 에서의 convolution :  padding, kernel : Edge Detection, Box Blur, Gaussian Blur
+    - 병렬처리 : joblib Parallel
+    - matplotlib: State Machine ; 흑백이미지 픽셀 값 표시
+### [15일차 필기자료 : OPENCV를 활용한 영상 처리5](https://github.com/hysKim1/AI_Vision/blob/master/200921_12기_고급시각반.ipynb)
     - 
-### [9일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리4]()
-### [10일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리5]()
-### [11일차 필기자료 : OPENCV를 활용한 영상 처리1]()
-### [12일차 필기자료 : OPENCV를 활용한 영상 처리2]()
-### [13일차 필기자료 : OPENCV를 활용한 영상 처리3]()
-### [14일차 필기자료 : OPENCV를 활용한 영상 처리4]()
-### [15일차 필기자료 : OPENCV를 활용한 영상 처리5]()
