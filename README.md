@@ -62,4 +62,18 @@
     - 병렬처리 : joblib Parallel
     - matplotlib: State Machine ; 흑백이미지 픽셀 값 표시
 ### [15일차 필기자료 : OPENCV를 활용한 영상 처리5](https://github.com/hysKim1/AI_Vision/blob/master/200921_12기_고급시각반.ipynb)
+    - einsum : vector, matrix , Batch Matrix Multiplication
+    - OpenCV ML
+### [16일차 필기자료 : 영상처리를 위한 딥러닝1](https://github.com/hysKim1/AI_Vision/blob/master/200922_12기_고급시각반.ipynb)
+    - Subsampling: holdout, 분할, scikit vs keras, Learning Curve
+    - keras 모델: Sequential  , 학습전략compile (loss, optimizer)
+    - 성능 향상을 위한 전처리:정규화 MinMaxScaler
+### [17일차 필기자료 : 영상처리를 위한 딥러닝2](https://github.com/hysKim1/AI_Vision/blob/master/200923_12기_고급시각반.ipynb)
+    - tensorflow 이미지 전처리, activatoin,compile(loss, optimizer, metrics) ,evaluate
+    - hyperparameter tunning :Scikit의 GridSearchCV, Keras의 wrapper: KerasClassifier(buildfn)
+### [18일차 필기자료 : 영상처리를 위한 딥러닝3](https://github.com/hysKim1/AI_Vision/blob/master/200924_12기_고급시각반.ipynb)
+    - Tensor: 상수,변수, Numpy 호환성, Functional API :Model , Nested Model, None 
+### [19일차 필기자료 : 영상처리를 위한 딥러닝4](https://github.com/hysKim1/AI_Vision/blob/master/200925_12기_고급시각반.ipynb)
+    - CNN
+### [20일차 필기자료 : 영상처리를 위한 딥러닝5](https://github.com/hysKim1/AI_Vision/blob/master/200928_12기_고급시각반.ipynb)
     - 
