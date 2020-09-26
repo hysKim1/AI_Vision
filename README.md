@@ -74,6 +74,6 @@
 ### [18일차 필기자료 : 영상처리를 위한 딥러닝3](https://github.com/hysKim1/AI_Vision/blob/master/200924_12기_고급시각반.ipynb)
     - Tensor: 상수,변수, Numpy 호환성, Functional API :Model , Nested Model, None 
 ### [19일차 필기자료 : 영상처리를 위한 딥러닝4](https://github.com/hysKim1/AI_Vision/blob/master/200925_12기_고급시각반.ipynb)
-    - CNN
+    - CNN :FCNN vs CNN ( local connectivity, filter, padding,pooling, ; CNN 구현 (흑백,컬러): Sequential API, functional API
 ### [20일차 필기자료 : 영상처리를 위한 딥러닝5](https://github.com/hysKim1/AI_Vision/blob/master/200928_12기_고급시각반.ipynb)
     - 
