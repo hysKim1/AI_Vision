@@ -76,4 +76,8 @@
 ### [19일차 필기자료 : 영상처리를 위한 딥러닝4](https://github.com/hysKim1/AI_Vision/blob/master/200925_12기_고급시각반.ipynb)
     - CNN :FCNN vs CNN ( local connectivity, filter, padding,pooling, ; CNN 구현 (흑백,컬러): Sequential API, functional API
 ### [20일차 필기자료 : 영상처리를 위한 딥러닝5](https://github.com/hysKim1/AI_Vision/blob/master/200928_12기_고급시각반.ipynb)
-    - 
+    - clipping 문제 from_logits으로 numerical stability유지
+    - 이미지 로드 : 1. 디렉토리 keras.preprocessing.image_datasets_from_directory
+### [21일차 필기자료 : OPENCV를 활용한 영상 처리6](https://github.com/hysKim1/AI_Vision/blob/master/201005_12기_고급시각반.ipynb)
+    - 이미지 로드 : 2. tf.data , 성능 향상
+    - data augmentation : ImageDataGenerator
