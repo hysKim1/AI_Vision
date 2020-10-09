@@ -81,3 +81,9 @@
 ### [21일차 필기자료 : OPENCV를 활용한 영상 처리6](https://github.com/hysKim1/AI_Vision/blob/master/201005_12기_고급시각반.ipynb)
     - 이미지 로드 : 2. tf.data , 성능 향상
     - data augmentation : ImageDataGenerator
+### [22일차 필기자료 : CNN](https://github.com/hysKim1/AI_Vision/blob/master/201006_12기_고급시각반.ipynb)
+    - LeNet, AlexNet
+### [23일차 필기자료 : CNN](https://github.com/hysKim1/AI_Vision/tree/master/201007_CNN_history)
+    - JFNet, Network In Network(NIN), GoogLeNet,VGGNEt
+### [24일차 필기자료 : CNN](https://github.com/hysKim1/AI_Vision/blob/master/201005_12기_고급시각반.ipynb)
+    - ResNet, Batch Normalization
