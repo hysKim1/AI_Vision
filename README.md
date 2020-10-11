@@ -30,7 +30,9 @@
 ### [4일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming4](https://github.com/hysKim1/AI_Vision/blob/master/200904_12기_고급시각반.ipynb)
     - overloading, 연산자 오버로딩, 상속 : __mro__, super, composition, 다형성
 ### [5일차 필기자료 : 영상 처리/딥러닝을 위한 Python Programming5](https://github.com/hysKim1/AI_Vision/blob/master/200907_12기_고급시각반.ipynb)
-    -
+    - descriptor:get,set,del   
+    - property, Metaclass :singleton
+
 ### [6일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리1](https://github.com/hysKim1/AI_Vision/blob/master/200908_12기_고급시각반.ipynb)
      - Numpy,  Numpy 데이터 구조, 데이터 저장 방식, Image : 형태: bitmap, vector  ,차원 , 구성:NHWC, channel: 색상(RGB), 흑백(intensity)
 ### [7일차 필기자료 : Numpy,Scipy,Scikit-image를 통한 기본 영상 처리2](https://github.com/hysKim1/AI_Vision/blob/master/200909_12기_고급시각반.ipynb)
