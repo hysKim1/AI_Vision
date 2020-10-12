@@ -87,5 +87,20 @@
     - LeNet, AlexNet
 ### [23일차 필기자료 : CNN](https://github.com/hysKim1/AI_Vision/tree/master/201007_CNN_history)
     - JFNet, Network In Network(NIN), GoogLeNet,VGGNEt
-### [24일차 필기자료 : CNN](https://github.com/hysKim1/AI_Vision/blob/master/201005_12기_고급시각반.ipynb)
+### [24일차 필기자료 : CNN](https://github.com/hysKim1/AI_Vision/blob/master/201007_CNN_history)
     - ResNet, Batch Normalization
+### [25일차 필기자료 : Transfer Learning1](https://github.com/hysKim1/AI_Vision/blob/master/201012_12기_고급시각반.ipynb)
+    - 
+### [26일차 필기자료 :RNN](https://github.com/hysKim1/AI_Vision/blob/master/201014_12기_고급시각반.ipynb)
+    - 
+### [27일차 필기자료 :CRNN](https://github.com/hysKim1/AI_Vision/blob/master/201015_12기_고급시각반.ipynb)
+    -
+### [28일차 필기자료 :Object Detection1](https://github.com/hysKim1/AI_Vision/blob/master/201016_12기_고급시각반.ipynb)
+    -
+### [29일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201019_12기_고급시각반.ipynb)
+    -
+### [30일차 필기자료 :Object Detection3](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
+    -
+
+
+ 
