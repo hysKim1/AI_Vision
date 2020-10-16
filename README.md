@@ -92,16 +92,17 @@
 ### [25일차 필기자료 : Transfer Learning1](https://github.com/hysKim1/AI_Vision/blob/master/201012_12기_고급시각반.ipynb)
     - Transfer Learning : MobileNetV2 전이학습 , Feature Extraction
 ### [26일차 필기자료 :Incremental Learning, Knowledge Distilling](https://github.com/hysKim1/AI_Vision/blob/master/201013_12기_고급시각반.ipynb)
-    - 
+    - Transfer Learning2
+    - Incremental Learning,Catastrophic forgetting, Knowledge Distilling
 ### [27일차 필기자료 :RNN](https://github.com/hysKim1/AI_Vision/blob/master/201014_12기_고급시각반.ipynb)
+    - TensorFlow Hub 이용한 Transfer Learning :KerasLayer, feature extraction, fine-tuning
+### [28일차 필기자료 :LSTM](https://github.com/hysKim1/AI_Vision/blob/master/201015_12기_고급시각반.ipynb)
+    - RNN in Keras: one-to-many, many-to-many ,Long term dependency 문제, LSTM
+### [29일차 필기자료 :LRCNN](https://github.com/hysKim1/AI_Vision/blob/master/201018_12기_고급시각반.ipynb)
+    - 비디오 처리  
+### [30일차 필기자료 :Object Detection1](https://github.com/hysKim1/AI_Vision/blob/master/201019_12기_고급시각반.ipynb)
     -
-### [28일차 필기자료 :CRNN](https://github.com/hysKim1/AI_Vision/blob/master/201015_12기_고급시각반.ipynb)
-    -
-### [29일차 필기자료 :Object Detection1](https://github.com/hysKim1/AI_Vision/blob/master/201018_12기_고급시각반.ipynb)
-    -
-### [30일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201019_12기_고급시각반.ipynb)
-    -
-### [31일차 필기자료 :Object Detection3](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
+### [31일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
     -
 ### [32일차 필기자료 :Object Segmentation1](https://github.com/hysKim1/AI_Vision/blob/master/201021_12기_고급시각반.ipynb)
     -
