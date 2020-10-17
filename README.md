@@ -99,7 +99,7 @@
 ### [28일차 필기자료 :LSTM](https://github.com/hysKim1/AI_Vision/blob/master/201015_12기_고급시각반.ipynb)
     - RNN in Keras: one-to-many, many-to-many ,Long term dependency 문제, LSTM
 ### [29일차 필기자료 :LRCNN](https://github.com/hysKim1/AI_Vision/blob/master/201018_12기_고급시각반.ipynb)
-    - 비디오 처리  
+    - 비디오 처리  : CRNN, LRCNN,ConvLSTM 
 ### [30일차 필기자료 :Object Detection1](https://github.com/hysKim1/AI_Vision/blob/master/201019_12기_고급시각반.ipynb)
     -
 ### [31일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
