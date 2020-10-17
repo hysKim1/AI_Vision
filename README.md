@@ -104,16 +104,17 @@
     -
 ### [31일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
     -
-### [32일차 필기자료 :Object Segmentation1](https://github.com/hysKim1/AI_Vision/blob/master/201021_12기_고급시각반.ipynb)
+### [32일차 필기자료 :Object Detection3](https://github.com/hysKim1/AI_Vision/blob/master/201021_12기_고급시각반.ipynb)
     -
-### [33일차 필기자료 :Object Segmentation2](https://github.com/hysKim1/AI_Vision/blob/master/201022_12기_고급시각반.ipynb)
+### [33일차 필기자료 :Object Segmentation1](https://github.com/hysKim1/AI_Vision/blob/master/201022_12기_고급시각반.ipynb)
     -
-### [34일차 필기자료 :Style Transfer](https://github.com/hysKim1/AI_Vision/blob/master/201023_12기_고급시각반.ipynb)
+### [34일차 필기자료 :Object Segmentation2](https://github.com/hysKim1/AI_Vision/blob/master/201023_12기_고급시각반.ipynb)
     -
 ### [35일차 필기자료 :Style Transfer](https://github.com/hysKim1/AI_Vision/blob/master/201026_12기_고급시각반.ipynb)
     -
-### [36일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201027_12기_고급시각반.ipynb)
-### [37일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201028_12기_고급시각반.ipynb)
+### [36일차 필기자료 :AutoEncoder](https://github.com/hysKim1/AI_Vision/blob/master/201027_12기_고급시각반.ipynb)
+    -
+### [37일차 필기자료 : VAE ](https://github.com/hysKim1/AI_Vision/blob/master/201028_12기_고급시각반.ipynb)
 ### [38일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201029_12기_고급시각반.ipynb)
 ### [39일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)
 ### [40일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201102_12기_고급시각반.ipynb)
