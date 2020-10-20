@@ -101,9 +101,9 @@
 ### [29일차 필기자료 :LRCNN](https://github.com/hysKim1/AI_Vision/blob/master/201018_12기_고급시각반.ipynb)
     - 비디오 처리  : CRNN, LRCNN,ConvLSTM 
 ### [30일차 필기자료 :Object Detection1](https://github.com/hysKim1/AI_Vision/blob/master/201019_12기_고급시각반.ipynb)
-    -
+    - Object Detection: R-CNN(2013),SPPNet(2014)
 ### [31일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
-    -
+    - SPP layer
 ### [32일차 필기자료 :Object Detection3](https://github.com/hysKim1/AI_Vision/blob/master/201021_12기_고급시각반.ipynb)
     -
 ### [33일차 필기자료 :Object Segmentation1](https://github.com/hysKim1/AI_Vision/blob/master/201022_12기_고급시각반.ipynb)
