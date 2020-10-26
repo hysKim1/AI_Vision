@@ -111,11 +111,10 @@
 ### [34일차 필기자료 :GradientTape](https://github.com/hysKim1/AI_Vision/blob/master/201023_12기_고급시각반.ipynb)
     - GradientTape 이용해서 학습
 ### [35일차 필기자료 :Style Transfer](https://github.com/hysKim1/AI_Vision/blob/master/201026_12기_고급시각반.ipynb)
-    -
+    - Style Transfer : custom loss function & training 
 ### [36일차 필기자료 :AutoEncoder](https://github.com/hysKim1/AI_Vision/blob/master/201027_12기_고급시각반.ipynb)
     -
 ### [37일차 필기자료 : VAE ](https://github.com/hysKim1/AI_Vision/blob/master/201028_12기_고급시각반.ipynb)
 ### [38일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201029_12기_고급시각반.ipynb)
+### [39일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)ㅇ
 ### [39일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)
-### [40일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201102_12기_고급시각반.ipynb)
-
