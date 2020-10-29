@@ -113,8 +113,10 @@
 ### [35일차 필기자료 :Style Transfer](https://github.com/hysKim1/AI_Vision/blob/master/201026_12기_고급시각반.ipynb)
     - Style Transfer : custom loss function & training 
 ### [36일차 필기자료 :AutoEncoder](https://github.com/hysKim1/AI_Vision/blob/master/201027_12기_고급시각반.ipynb)
-    -
-### [37일차 필기자료 : VAE ](https://github.com/hysKim1/AI_Vision/blob/master/201028_12기_고급시각반.ipynb)
-### [38일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201029_12기_고급시각반.ipynb)
-### [39일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)ㅇ
+    - Simple AE, Deep AE, Convolutional AE by Upsampling2D, Denoising AE
+### [37일차 필기자료 : AE & GAN ](https://github.com/hysKim1/AI_Vision/blob/master/201028_12기_고급시각반.ipynb)
+    - Convolutional AE by Conv2DTranspose
+    - GAN
+### [38일차 필기자료 : GAN  ](https://github.com/hysKim1/AI_Vision/blob/master/201029_12기_고급시각반.ipynb)
+### [39일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)
 ### [39일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)
