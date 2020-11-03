@@ -122,3 +122,4 @@
 ### [39일차 필기자료 : GAN3 ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)
     - Pix2Pix, CycleGAN
 ### [40일차 필기자료 :   ](https://github.com/hysKim1/AI_Vision/blob/master/201030_12기_고급시각반.ipynb)
+    - CycleGAN, VAE
