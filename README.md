@@ -103,9 +103,9 @@
 ### [30일차 필기자료 :Object Detection1](https://github.com/hysKim1/AI_Vision/blob/master/201019_12기_고급시각반.ipynb)
     - Object Detection: R-CNN(2013),SPP-net(2014)
 ### [31일차 필기자료 :Object Detection2](https://github.com/hysKim1/AI_Vision/blob/master/201020_12기_고급시각반.ipynb)
-    - Fast-RCNN , RoI layer
+    - Fast-RCNN(2015) , RoI layer
 ### [32일차 필기자료 :Object Detection3](https://github.com/hysKim1/AI_Vision/blob/master/201021_12기_고급시각반.ipynb)
-    - Faster-RCNN
+    - Faster-RCNN(2016)
 ### [33일차 필기자료 :Object Detection4](https://github.com/hysKim1/AI_Vision/blob/master/201022_12기_고급시각반.ipynb)
     - Faster-RCNN tensorflow 구현
 ### [34일차 필기자료 :GradientTape](https://github.com/hysKim1/AI_Vision/blob/master/201023_12기_고급시각반.ipynb)
